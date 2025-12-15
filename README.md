@@ -180,4 +180,4 @@ Although anomaly detection models achieve high **accuracy**, their **recall for 
 pip install numpy pandas scikit-learn matplotlib plotly lightgbm pyod scikit-optimize
 python binary_classification.py
 python anomaly_detection.py
-```
+```# Fall-Detection
